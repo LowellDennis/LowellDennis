@@ -2,7 +2,7 @@
 - 👀 I’m interested in firmware, scripting, and automation.  
 - 🌱 I’m currently learning OpenBMC.
 - 💞️ I’m looking to collaborate on UEFI configuration tools.
-- 📫 How to reach me ... Lowell.Dennis@hpe.com
+- 📫 How to reach me ... Lowell.Dennis@gmail.com
 
 <!---
 LowellDennis/LowellDennis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
